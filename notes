@@ -1,0 +1,3 @@
+change the password inside myadminphp to the database/schema password
+now u can't access myadminphp because you will get #1045 error and denied access
+then go to your /xamp/phpmyadmin/config.inc.php  and change the password to the new password you entered earlier 
